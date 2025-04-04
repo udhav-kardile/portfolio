@@ -1,7 +1,9 @@
-# Data Scientist
+# Aspiring Data Scientist
 
 ### Education
-MCA, BS-Mathematics.
+PG-DBDA @cdac mumbai,
+MCA IMSCDR,
+BSc-Mathematics.
 
 ### Work Experience
 ******
